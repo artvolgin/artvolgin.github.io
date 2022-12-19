@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/Artem_Volgin_CV.pdf
+permalink: /cv
 author_profile: true
 redirect_from:
   - /resume
