@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% /cv/Artem_Volgin_CV.pdf %}
+{% include base_path %}
 
 Education
 ======
