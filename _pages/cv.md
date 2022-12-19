@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV test"
+title: "CV"
 permalink: /cv/Artem_Volgin_CV.pdf
 author_profile: true
 redirect_from:
