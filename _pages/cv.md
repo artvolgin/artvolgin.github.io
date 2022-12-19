@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "CV test"
 permalink: /cv/Artem_Volgin_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% /cv/Artem_Volgin_CV.pdf %}
 
 Education
 ======
