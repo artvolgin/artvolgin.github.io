@@ -227,7 +227,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: "/competitions/"
+      path: ""
       type: portfolio
     values:
       layout: single
