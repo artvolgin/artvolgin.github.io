@@ -1,14 +1,6 @@
 ---
 title: "Title A"
-excerpt: "
-Kaggle ML & DS Survey 2019
-Organizers: Kaggle
-Dates: November 8, 2019 – December 3, 2019
-Task: Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
-Data: Survey of around 20,000 Kaggle users about their work, education, skills etc.
-Submission: Story about Kaggle’s PhD community using network analysis: network of participants, skills, and countries.
-Result: 2nd place – $8,000
-<br/><img src='/images/competitions/competition_1.png'>"
+excerpt: "<br/><img src='/images/competitions/competition_1.png'>"
 collection: portfolio
 ---
 
