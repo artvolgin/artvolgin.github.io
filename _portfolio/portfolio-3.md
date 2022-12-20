@@ -1,6 +1,6 @@
 ---
 title: "Title C"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_3.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_3.jpg'>"
 collection: portfolio
 ---
 
