@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Artem Volgin"
-  avatar           : "profile.png"
-  bio              : "PhD Student in Social Statistics at the University of Manchester, UK"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "PhD Student in Social Statistics at the University of Manchester"
+  location         : "Manchester, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0qziSP8AAAAJ&hl=en"
