@@ -180,7 +180,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
   talks:
     output: true
     permalink: /:collection/:path/
