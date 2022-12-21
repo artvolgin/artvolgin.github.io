@@ -228,7 +228,7 @@ defaults:
   # _competitions
   - scope:
       path: ""
-      type: portfolio
+      type: competitions
     values:
       layout: single
       author_profile: true
