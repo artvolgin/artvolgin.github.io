@@ -1,7 +1,6 @@
 ---
 title: "2019 Kaggle ML & DS Survey"
 excerpt: "
-<br/>2nd place - 8,000$
 <br/><img src='/images/competitions/competition_6.png'>
 "
 collection: portfolio
