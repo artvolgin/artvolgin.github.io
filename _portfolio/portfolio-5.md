@@ -1,6 +1,6 @@
 ---
-title: "Title A"
-excerpt: "<br/><img src='/images/competitions/competition_1.png'>"
+title: "Title E"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_5.jpg'>"
 collection: portfolio
 ---
 
