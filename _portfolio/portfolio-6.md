@@ -1,6 +1,6 @@
 ---
-title: "Test 3. Kaggle ML & DS Survey 2019"
-permalink: https://www.kaggle.com/code/artvolgin/exploring-phd-community-with-network-analysis
+title: "Test 4. Kaggle ML & DS Survey 2019"
+paperurl: 'http://www.homepages.ucl.ac.uk/~ucfnard/AdamDennettPhDThesis.pdf'
 excerpt: "
 <br/><img src='/images/competitions/competition_6.png'>
 <br/>Organizers: Kaggle
