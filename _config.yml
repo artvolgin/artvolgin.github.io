@@ -180,7 +180,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: True
+    permalink: kaggle
   talks:
     output: true
     permalink: /:collection/:path/
