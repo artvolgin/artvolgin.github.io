@@ -1,5 +1,5 @@
 ---
-title: "Title A"
+title: "Big Data Derby 2022"
 excerpt: "<br/><img src='/images/competitions/competition_1.png'>"
 collection: portfolio
 ---

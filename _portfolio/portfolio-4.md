@@ -1,5 +1,5 @@
 ---
-title: "Title D"
+title: "CDP - Unlocking Climate Solutions"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_4.png'>"
 collection: portfolio
 ---
