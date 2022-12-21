@@ -1,5 +1,6 @@
 ---
 title: "2019 Kaggle ML & DS Survey"
+date: 2012-03-01
 excerpt: "
 <br/><img src='/images/competitions/competition_6.png'>
 "
