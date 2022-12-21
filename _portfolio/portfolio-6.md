@@ -1,6 +1,6 @@
 ---
 title: "Test 4. Kaggle ML & DS Survey 2019"
-paperurl: 'http://www.homepages.ucl.ac.uk/~ucfnard/AdamDennettPhDThesis.pdf'
+portfoliourl: 'http://www.homepages.ucl.ac.uk/~ucfnard/AdamDennettPhDThesis.pdf'
 excerpt: "
 <br/><img src='/images/competitions/competition_6.png'>
 <br/>Organizers: Kaggle
