@@ -1,5 +1,5 @@
 ---
-title: "2021 Kaggle ML & DS Survey"
+title: "COVID-19 Symptom Data Challenge"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_3.jpg'>"
 collection: portfolio
 ---
