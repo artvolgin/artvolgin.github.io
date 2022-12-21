@@ -6,11 +6,8 @@ main:
   - title: "Talks"
     url: /talks/
     
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Competitions"
-    url: /competitions/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/Artem_Volgin_CV.pdf
