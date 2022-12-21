@@ -1,5 +1,5 @@
 ---
-title: "Test 2. Kaggle ML & DS Survey 2019"
+title: "Test 3. Kaggle ML & DS Survey 2019"
 permalink: https://www.kaggle.com/code/artvolgin/exploring-phd-community-with-network-analysis
 excerpt: "
 <br/><img src='/images/competitions/competition_6.png'>
