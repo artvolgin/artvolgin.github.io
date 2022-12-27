@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Symptom Data Challenge"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_3.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><br/><img src='/images/competitions/competition_3.jpg'>"
 collection: portfolio
 date: 2015-03-01
 ---

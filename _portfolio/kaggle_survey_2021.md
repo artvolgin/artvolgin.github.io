@@ -1,6 +1,6 @@
 ---
 title: "2021 Kaggle ML & DS Survey"
-excerpt: "<br/>#survey #multilevel<br/><img src='/images/competitions/competition_2.png'>"
+excerpt: "Short description of portfolio item number 1<br/><br/><img src='/images/competitions/competition_2.png'>"
 collection: portfolio
 date: 2018-03-01
 ---

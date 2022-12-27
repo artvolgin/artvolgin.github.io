@@ -2,7 +2,7 @@
 title: "2019 Kaggle ML & DS Survey"
 date: 2017-03-01
 excerpt: "
-<br/><img src='/images/competitions/competition_6.png'>
+Short description of portfolio item number 1<br/><br/><img src='/images/competitions/competition_6.png'>
 "
 collection: portfolio
 ---
