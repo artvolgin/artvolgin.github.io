@@ -1,6 +1,6 @@
 ---
 title: "CDP - Unlocking Climate Solutions"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/competitions/competition_4.png'>"
+excerpt: "Short description of portfolio item number 1<br/><br/><img src='/images/competitions/competition_4.png'>"
 collection: portfolio
 date: 2014-03-01
 ---
