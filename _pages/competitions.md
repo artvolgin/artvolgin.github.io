@@ -9,6 +9,8 @@ As one of my two research agendas involves improving the tools we use to study p
 
 ## [Big Data Derby 2022](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better)
 
+![](/images/competitions/bdd_2022.png)
+
 - <strong>Organizers:</strong> NYRA, NYTHA
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
 - <strong>Task:</strong> Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
@@ -18,6 +20,8 @@ As one of my two research agendas involves improving the tools we use to study p
 
 
 ## Kaggle ML & DS Survey 2021
+
+![](/images/competitions/kaggle_survey_2021.png)
 
 - <strong>Organizers:</strong> Kaggle
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
@@ -29,6 +33,8 @@ As one of my two research agendas involves improving the tools we use to study p
 
 ## The COVID-19 Symptom Data Challenge
 
+![](/images/competitions/covid19_facebook.png)
+
 - <strong>Organizers:</strong> Facebook, Carnegie Mellon University, University of Maryland, Duke Margolis Center for Health Policy
 - <strong>Dates:</strong> September 1, 2020 – November 29, 2020
 - <strong>Task:</strong> Develop a novel analytic approach to enable earlier detection and improve situational awareness of the outbreak by public health authorities and the general public.
@@ -38,6 +44,8 @@ As one of my two research agendas involves improving the tools we use to study p
 
 
 ## CDP - Unlocking Climate Solutions
+
+![](/images/competitions/cdp.png)
 
 - <strong>Organizers:</strong> CDP
 - <strong>Dates:</strong> October 14, 2020 – December 2, 2020 
