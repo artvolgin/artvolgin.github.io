@@ -49,6 +49,8 @@ As one of my two research agendas involves improving the tools we use to study p
 
 ## DS4G - Environmental Insights Explorer
 
+![](/images/competitions/ds4g_eie.png)
+
 - <strong>Organizers:</strong> Google
 - <strong>Dates:</strong> February 11, 2020 – March 24, 2020
 - <strong>Task:</strong> Develop a methodology to calculate an average annual historical emissions factor for the sub-national region.
@@ -59,7 +61,7 @@ As one of my two research agendas involves improving the tools we use to study p
 
 ## Kaggle ML & DS Survey 2019
 
-![](/images/competitions/competition_6.png)
+![](/images/competitions/kaggle_survey_2019.png)
 
 - <strong>Organizers:</strong> Kaggle
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
