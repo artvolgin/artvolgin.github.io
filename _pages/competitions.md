@@ -7,7 +7,7 @@ As one of my two research agendas involves improving the tools we use to study p
 
 
 
-## Big Data Derby 2022
+## [Big Data Derby 2022](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better)
 
 - <strong>Organizers:</strong> NYRA, NYTHA
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
