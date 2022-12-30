@@ -7,7 +7,7 @@ As one of my two research agendas involves improving the tools we use to study p
 
 
 
-## [Big Data Derby 2022](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better)
+## Big Data Derby 2022
 
 ![](/images/competitions/bdd_2022.png)
 
@@ -17,6 +17,7 @@ As one of my two research agendas involves improving the tools we use to study p
 - <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
 - <strong>Submission:</strong> Story about Kaggle’s PhD community using network analysis: network of participants, skills, and countries.
 - <strong>Result:</strong> 4th place – $10,000
+- <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better), [GitHub](https://github.com/artvolgin/hh-cv)
 
 
 ## Kaggle ML & DS Survey 2021
