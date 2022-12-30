@@ -3,10 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Publications_2"
-    url: /publications_2/
-
-  - title: "Talks"
+  - title: "Talks and Presentations"
     url: /talks/
 
   - title: Teaching
