@@ -1,7 +1,7 @@
 ---
 title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
 collection: publications
-permalink: /publication/2021-conflict-preemption
+permalink: /talk/2021-cv-skills
 date: 2021-06-28
 venue: 'Conflict management and Peace Science'
 paperurl: '/files/pdf/research/Turning the Lights on.pdf'
