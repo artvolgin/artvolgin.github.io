@@ -1,6 +1,6 @@
 ---
 title: "The possibilities of open data for the development of extracurricular education."
-collection: publications
+collection: talks
 permalink: /talk/2020-open-data-eca
 date: 2020-01-01
 venue: 'Moscow International Education Fair'

@@ -1,6 +1,6 @@
 ---
 title: "CV Skills"
-collection: publications
+collection: talks
 permalink: /talk/2021-cv-skills
 date: 2021-06-28
 venue: 'Conflict management and Peace Science'
