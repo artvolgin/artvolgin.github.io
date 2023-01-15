@@ -11,20 +11,20 @@ Together with [Kate Melianova](https://twitter.com/egmelianova), we participated
 Here you can find a short description of all our winning submissions.
 
 
-## Big Data Derby 2022
+## 6. Big Data Derby 2022
 
 ![](/images/competitions/bdd_2022.png)
 
 - <strong>Organizers:</strong> NYRA, NYTHA
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
-- <strong>Task:</strong> 
-- <strong>Data:</strong> 
-- <strong>Submission:</strong> 
+- <strong>Task:</strong> Analyze horse racing tactics, drafting strategies, and path efficiency.
+- <strong>Data:</strong> Detailed GPS tracking data.
+- <strong>Submission:</strong> Extraction of different racing strategies using clustering methods. Assessing the effectiveness of these strategies using interactions and random effects in multilevel models.
 - <strong>Result:</strong> 4th place – $10,000
 - <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better), [GitHub](https://github.com/artvolgin/hh-cv)
 
 
-## Kaggle ML & DS Survey 2021
+## 5. Kaggle ML & DS Survey 2021
 
 ![](/images/competitions/kaggle_survey_2021.png)
 
@@ -32,11 +32,12 @@ Here you can find a short description of all our winning submissions.
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
 - <strong>Task:</strong> Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
 - <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
-- <strong>Submission:</strong> 
+- <strong>Submission:</strong> Comparision of Early-career Data Scientists using Multilevel modelling framework.
 - <strong>Result:</strong> 4th place – $5,000
+- <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/katemelianova/early-career-kagglers-and-skills-development)
 
 
-## The COVID-19 Symptom Data Challenge
+## 4. The COVID-19 Symptom Data Challenge
 
 ![](/images/competitions/covid19_facebook.png)
 
@@ -46,9 +47,10 @@ Here you can find a short description of all our winning submissions.
 - <strong>Data:</strong> Online survey of more than 10 million Facebook users about COVID symptoms, mask wearing, mental health etc. 
 - <strong>Submission:</strong> Investigation of causal relationships between COVID-19 cases, people’s behaviour, and governmental actions using Multilevel Vector Autoregression model.
 - <strong>Result:</strong> 2nd place – $30,000
+- <strong>Links:</strong> [GitHub](https://github.com/artvolgin/symptom-covid-challenge), [YouTube](https://www.youtube.com/watch?v=_dUgdFwCisw)
 
 
-## CDP - Unlocking Climate Solutions
+## 3. CDP - Unlocking Climate Solutions
 
 ![](/images/competitions/cdp.png)
 
@@ -58,9 +60,10 @@ Here you can find a short description of all our winning submissions.
 - <strong>Data:</strong> Semi-structured surveys of city officials and corporate managers responsible for the climate change response.
 - <strong>Submission:</strong> Data Envelopment Analysis on obtained KPIs. Investigation of relationships between climate hazards, actions an co-benefits using Association Rules Mining. Exploration of cities reports and using Structural Topic Modelling. 
 - <strong>Result:</strong> 2nd place – 25,000$
+- <strong>Links:</strong> [Kaggle](https://www.kaggle.com/katemelianova/cdp-a-path-to-efficient-and-sustainable-growth), [GitHub](https://github.com/artvolgin/cdp)
 
 
-## DS4G - Environmental Insights Explorer
+## 2. DS4G - Environmental Insights Explorer
 
 ![](/images/competitions/ds4g_eie.png)
 
@@ -70,9 +73,10 @@ Here you can find a short description of all our winning submissions.
 - <strong>Data:</strong> Remote sensing data about NO2 emissions, weather conditions, additional information from OpenStreetMap.
 - <strong>Submission:</strong> Methodology for calculating emissions factor using Spatial Panel Model.
 - <strong>Result:</strong> 1st place – $10,000
+- <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/katemelianova/ds4g-spatial-panel-data-modeling)
 
 
-## Kaggle ML & DS Survey 2019
+## 1. Kaggle ML & DS Survey 2019
 
 ![](/images/competitions/kaggle_survey_2019.png)
 
@@ -82,3 +86,5 @@ Here you can find a short description of all our winning submissions.
 - <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
 - <strong>Submission:</strong> Story about Kaggle’s PhD community using network analysis: network of participants, skills, and countries.
 - <strong>Result:</strong> 2nd place – $8,000
+- <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/artvolgin/exploring-phd-community-with-network-analysis)
+
