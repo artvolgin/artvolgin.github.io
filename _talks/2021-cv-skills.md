@@ -1,7 +1,7 @@
 ---
 title: "CV Skills"
-collection: talks
-permalink: /talk/2021-cv-skills
+collection: publications
+permalink: /publication/2021-cv-skills
 date: 2021-06-28
 venue: 'Conflict management and Peace Science'
 paperurl: '/files/pdf/research/Turning the Lights on.pdf'
