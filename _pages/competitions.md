@@ -17,9 +17,9 @@ Here you can find a short description of all our winning submissions.
 
 - <strong>Organizers:</strong> NYRA, NYTHA
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
-- <strong>Task:</strong> Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
-- <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
-- <strong>Submission:</strong> Story about Kaggle’s PhD community using network analysis: network of participants, skills, and countries.
+- <strong>Task:</strong> 
+- <strong>Data:</strong> 
+- <strong>Submission:</strong> 
 - <strong>Result:</strong> 4th place – $10,000
 - <strong>Links:</strong> [Kaggle](https://www.kaggle.com/code/artvolgin/winning-strategies-what-works-better), [GitHub](https://github.com/artvolgin/hh-cv)
 
@@ -32,7 +32,7 @@ Here you can find a short description of all our winning submissions.
 - <strong>Dates:</strong> November 8, 2019 – December 3, 2019
 - <strong>Task:</strong> Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
 - <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
-- <strong>Submission:</strong> Story about Kaggle’s PhD community using network analysis: network of participants, skills, and countries.
+- <strong>Submission:</strong> 
 - <strong>Result:</strong> 4th place – $5,000
 
 
