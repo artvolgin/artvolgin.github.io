@@ -1,10 +1,14 @@
 ---
 permalink: /competitions/
-title: "Data Science Competitions"
+title: "Data Analytics Competitions"
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+Data Analytics competitions are a particular type of Data Science competition whose goal is to answer substantive research
+questions provided by the organising company. Unlike Machine Learning competitions, typical Data Analytics competition usually 
+revolves around the usage of interpretable models while submissions are evaluated based on the expert opinion of the jury.
 
+Together with [Kate Melianova](https://twitter.com/egmelianova), we participated in a few such competitions over the last three years.
+Here you can find a short description of all our winning submissions.
 
 
 ## Big Data Derby 2022
