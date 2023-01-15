@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Online"
 ---
 
-[PDF Slides](https://artvolgin.github.io/files/how_to_win_kaggle_hse_masna.pdf), [YouTube](https://www.youtube.com/watch?v=HLJaMcG0Vew)
+[Slides](https://artvolgin.github.io/files/how_to_win_kaggle_hse_masna.pdf), [Recording](https://www.youtube.com/watch?v=HLJaMcG0Vew)

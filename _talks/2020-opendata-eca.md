@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Moscow, Russia"
 ---
 
-[PDF Slides](https://artvolgin.github.io/files/eca_mmco.pdf)
+[Slides](https://artvolgin.github.io/files/eca_mmco.pdf)

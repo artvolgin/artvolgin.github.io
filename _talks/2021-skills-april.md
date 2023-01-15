@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Moscow, Russia"
 ---
 
-[PDF Slides](https://artvolgin.github.io/files/hh_april_conference.pdf)
+[Slides](https://artvolgin.github.io/files/hh_april_conference.pdf)
