@@ -1,5 +1,5 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "HeadHunter"
 collection: publications
 permalink: /publication/2021-conflict-preemption
 date: 2021-06-28

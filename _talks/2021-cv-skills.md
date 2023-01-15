@@ -1,5 +1,5 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "CV Skills"
 collection: publications
 permalink: /talk/2021-cv-skills
 date: 2021-06-28
