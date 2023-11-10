@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Social Statistics at the University of Manchester, UK. 
+Artem Volgin is a PhD candidate in Social Statistics at the University of Manchester, UK. His main research interests revolve around applications of Network Analysis and Natural Language Processing methods. He has versatile experience in working with real-life data from different domains and was involved in data science projects at the World Bank and the University of Oxford. He actively participates in data science competitions, consistently achieving top placements.
 
-My main research interests revolve around Social Network Analysis and Computational Social Science. 
-I aspire to apply advanced statistical methods to real-world problems and have versatile experience in working with time-series, spatial, textual and network data from different domains.
-
-Here you can find general information about my [talks](https://artvolgin.github.io/talks/), [teaching experience](https://artvolgin.github.io/teaching/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which I participated. 
-More details can be found in my [CV](https://artvolgin.github.io/cv/).
+Here you can find general information about his [talks](https://artvolgin.github.io/talks/), [teaching experience](https://artvolgin.github.io/teaching/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which he participated. 
+More details can be found in the [CV](https://artvolgin.github.io/cv/).
 
