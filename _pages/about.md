@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Artem Volgin is a PhD candidate in Social Statistics at the University of Manchester, UK. His main research interests revolve around applications of Network Analysis and Natural Language Processing methods. He has versatile experience in working with real-life data from different domains and was involved in data science projects at the World Bank and the University of Oxford. He actively participates in data science competitions, consistently achieving top placements.
+Data Scientist and graduate researcher with diverse experience working with large-scale behavioural and financial data in marketing research, the non-profit sector, and academia. I am proficient in presenting results to a broad audience and working with various stakeholders. I also enjoy participating in data science competitions in my free time.
 
-Here you can find general information about his [talks](https://artvolgin.github.io/talks/), [teaching experience](https://artvolgin.github.io/teaching/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which he participated. 
-More details can be found in the [CV](https://artvolgin.github.io/cv/).
+Here you can find my [CV](https://artvolgin.github.io/cv/), my [talks](https://artvolgin.github.io/talks/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which I participated. 
+
 

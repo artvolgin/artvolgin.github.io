@@ -2,9 +2,6 @@
 main:
   - title: "Talks"
     url: /talks/
-
-  - title: Teaching
-    url: /teaching/
     
   - title: "Competitions"
     url: /competitions/
