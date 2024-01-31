@@ -7,8 +7,20 @@ Data Analytics competitions are a particular type of Data Science competition wh
 questions provided by the organising company. Unlike Machine Learning competitions, typical Data Analytics competition usually 
 revolves around the usage of interpretable models while submissions are evaluated based on the expert opinion of the jury.
 
-Together with [Kate Melianova](https://twitter.com/egmelianova), we participated in a few such competitions over the last three years.
+Together with [Kate Melianova](https://twitter.com/egmelianova), we participated in a few such competitions over the last years.
 Here you can find a short description of all our winning submissions.
+
+## 7. Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls
+
+![](/images/competitions/medical_narratives_2023.png)
+
+- <strong>Organizers:</strong> CDC
+- <strong>Dates:</strong> August 6, 2023 – October 6, 2023
+- <strong>Task:</strong> To explore the application of unsupervised machine learning methods on emergency department visit narratives about older adult falls.
+- <strong>Data:</strong> Large public dataset of narratives from the sample of emergency departments in the US.
+- <strong>Submission:</strong> Applied LLMs in combination with an SVM classifier to label a large dataset of medical texts.
+- <strong>Result:</strong> 1th place – $25,000
+- <strong>Links:</strong> [DrivenData](https://drivendata.co/blog/unsupervised-wisdom-winners), [GitHub](https://github.com/drivendataorg/unsupervised-wisdom/tree/main/1st%20Place)
 
 
 ## 6. Big Data Derby 2022
