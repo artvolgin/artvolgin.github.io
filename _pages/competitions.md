@@ -28,7 +28,7 @@ Here you can find a short description of all our winning submissions.
 ![](/images/competitions/bdd_2022.png)
 
 - <strong>Organizers:</strong> NYRA, NYTHA
-- <strong>Dates:</strong> November 8, 2019 – December 3, 2019
+- <strong>Dates:</strong> August 11, 2022 – November 10, 2022
 - <strong>Task:</strong> Analyze horse racing tactics, drafting strategies, and path efficiency.
 - <strong>Data:</strong> Detailed GPS tracking data.
 - <strong>Submission:</strong> Extraction of different racing strategies using clustering methods. Assessing the effectiveness of these strategies using interactions and random effects in multilevel models.
@@ -41,7 +41,7 @@ Here you can find a short description of all our winning submissions.
 ![](/images/competitions/kaggle_survey_2021.png)
 
 - <strong>Organizers:</strong> Kaggle
-- <strong>Dates:</strong> November 8, 2019 – December 3, 2019
+- <strong>Dates:</strong> November 8, 2019 – December 2, 2019
 - <strong>Task:</strong> Tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
 - <strong>Data:</strong> Survey of around 20,000 Kaggle users about their work, education, skills etc.
 - <strong>Submission:</strong> Comparision of Early-career Data Scientists using Multilevel modelling framework.
