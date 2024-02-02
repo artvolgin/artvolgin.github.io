@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist and graduate researcher with diverse experience working with large-scale behavioural and financial data in marketing research, the non-profit sector, and academia. I am proficient in presenting results to a broad audience and working with various stakeholders. I also enjoy participating in data science competitions in my free time.
+Data Scientist with experience working with behavioural and financial data in marketing, non-profit sector, and academia.
+Proficient in translating complex questions into data-driven insights and presenting them to a non-technical audience.
+An active and passionate participant in data science competitions, regularly achieving top positions.
+
+Expertise: Machine Learning, NLP, Causal Inference, Bayesian Statistics, Network Analysis, Spatial Statistics
+
+Toolkit: Python (pandas, numpy, sklearn, xgboost, seaborn, beautifulsoup, selenium, pytorch, transformers, spacy, nltk),
+R (tidyverse, data.table, sf, brms, igraph), SQL, Spark, MongoDB, Docker, AWS
 
 Here you can find my [CV](https://artvolgin.github.io/cv/), my [talks](https://artvolgin.github.io/talks/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which I participated. 
 
