@@ -1,5 +1,5 @@
 ---
-title: "War and Migration: Exploring the Russian Exodus with Online Search Data"
+title: "War and Migration - Exploring the Russian Exodus with Online Search Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-russian-migration
