@@ -11,7 +11,7 @@ Data Scientist with experience working with behavioural and financial data in ma
 Proficient in translating complex questions into data-driven insights and presenting them to a non-technical audience.
 An active and passionate participant in data science competitions, regularly achieving top positions.
 
-**Expertise**: Machine Learning, NLP, Causal Inference, Bayesian Statistics, Network Analysis, Spatial Statistics
+**Expertise**: Machine Learning, NLP, Causal Inference, Bayesian Statistics, Network Analysis
 
 **Toolkit**: Python (pandas, numpy, sklearn, xgboost, seaborn, beautifulsoup, selenium, pytorch, transformers, spacy, nltk),
 R (tidyverse, data.table, sf, brms, igraph), SQL, Spark, MongoDB, Docker, AWS
