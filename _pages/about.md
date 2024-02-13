@@ -14,7 +14,7 @@ An active and passionate participant in data science competitions, regularly ach
 **Expertise**: Machine Learning, NLP, Causal Inference, Bayesian Statistics, Network Analysis
 
 **Toolkit**: Python (pandas, numpy, sklearn, xgboost, seaborn, beautifulsoup, selenium, pytorch, transformers, spacy, nltk),
-R (tidyverse, data.table, sf, brms, igraph), SQL, Spark, MongoDB, Docker, AWS
+R (tidyverse, data.table, sf, brms, igraph), SQL, Spark, MongoDB, Docker, AWS, Tableau
 
 Here you can find my [CV](https://artvolgin.github.io/cv/), my [talks](https://artvolgin.github.io/talks/), and [data analytics competitions](https://artvolgin.github.io/competitions/) in which I participated. 
 
